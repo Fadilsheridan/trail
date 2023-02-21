@@ -24,7 +24,7 @@ public class Midsem {
         for (Vehicle x : racers) {
             x.go();
         }
-
+System.out.print("hit there");
     }
 }
 
