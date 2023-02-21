@@ -25,6 +25,10 @@ public class Midsem {
             x.go();
         }
 System.out.print("hit there");
+System.out.print("hit there");
+System.out.print("hit there");
+System.out.print("hit there");
+
     }
 }
 
