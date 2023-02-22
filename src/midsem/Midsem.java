@@ -31,6 +31,12 @@ System.out.print("hit there");
 
 System.out.print('PO MYRE');
 
+System.out.print('PO MYRE');
+
+System.out.print('PO MYRE');
+
+System.out.print('PO MYRE');
+
     }
 }
 
